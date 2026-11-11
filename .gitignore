@@ -1,0 +1,7 @@
+out/
+.DS_Store
+*.class
+*.log
+.idea/
+.vscode/
+javafx-sdk-27/
